@@ -1,0 +1,22 @@
+body
+{
+    font-family: sans-serif; 
+ color:#188A8C;
+    background-color: #FFC74F;
+    text-decoration: none;
+     font-weight: bold;
+    }
+
+
+a{
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: #65B4C9;
+        text-decoration: none;
+        border-radius: 10px;
+        font-size: 24px;
+       
+        color: white;
+    }
